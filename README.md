@@ -1,4 +1,4 @@
-# MADE USING MCP!
+# MADE USING MCP
 
 # Snake Game
 
