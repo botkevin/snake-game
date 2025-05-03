@@ -1,3 +1,5 @@
+# MADE USING MCP!
+
 # Snake Game
 
 A classic Snake game implementation using HTML5 Canvas, CSS, and JavaScript.
